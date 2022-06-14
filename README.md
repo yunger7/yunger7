@@ -4,12 +4,24 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=&message=JavaScript&colorA=4c566a&colorB=5E81AC&logo=javascript&logoColor=ECEFF4&style=flat-square" />
-  <img src="https://img.shields.io/static/v1?label=&message=Next.js&colorA=4c566a&colorB=5E81AC&logo=next.js&logoColor=ECEFF4&style=flat-square" />
-  <img src="https://img.shields.io/static/v1?label=&message=Vercel&colorA=4c566a&colorB=5E81AC&logo=vercel&logoColor=ECEFF4&style=flat-square" />
-  <img src="https://img.shields.io/static/v1?label=&message=MUI&colorA=4c566a&colorB=5E81AC&logo=mui&logoColor=ECEFF4&style=flat-square" />
-  <img src="https://img.shields.io/static/v1?label=&message=VS%20Code&colorA=4c566a&colorB=5E81AC&logo=visualstudiocode&logoColor=ECEFF4&style=flat-square" />
-  <img src="https://img.shields.io/static/v1?label=&message=Notion&colorA=4c566a&colorB=5E81AC&logo=notion&logoColor=ECEFF4&style=flat-square" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://img.shields.io/static/v1?label=&message=JavaScript&colorA=4c566a&colorB=5E81AC&logo=javascript&logoColor=ECEFF4&style=flat-square" />
+  </a>
+  <a href="https://nextjs.org/">
+    <img src="https://img.shields.io/static/v1?label=&message=Next.js&colorA=4c566a&colorB=5E81AC&logo=next.js&logoColor=ECEFF4&style=flat-square" />
+  </a>
+  <a href="https://vercel.com/home">
+    <img src="https://img.shields.io/static/v1?label=&message=Vercel&colorA=4c566a&colorB=5E81AC&logo=vercel&logoColor=ECEFF4&style=flat-square" />
+  </a>
+  <a href="https://mui.com/">
+    <img src="https://img.shields.io/static/v1?label=&message=MUI&colorA=4c566a&colorB=5E81AC&logo=mui&logoColor=ECEFF4&style=flat-square" />
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/static/v1?label=&message=VS%20Code&colorA=4c566a&colorB=5E81AC&logo=visualstudiocode&logoColor=ECEFF4&style=flat-square" />
+  </a>
+  <a href="https://www.notion.so/product">
+    <img src="https://img.shields.io/static/v1?label=&message=Notion&colorA=4c566a&colorB=5E81AC&logo=notion&logoColor=ECEFF4&style=flat-square" />
+  </a>
 </p>
 
 ## About
