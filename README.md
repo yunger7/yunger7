@@ -20,6 +20,7 @@ Hello world! I'm Luís Galete, a self-proclaimed digital craftsman, music enthus
 - 🌎 Living in: Brazil.
 - ❄️ Favorite thing: Drinking coffee on a cold day.
 - 👾 Favorite games: Xenoblade, Genshin, Minecraft and Okami.
+- 🍙 Favorite anime: Hyouka and Ookami to Koushinryou.
 - 💬 Languages: Portuguese and English.
 - 📫 Contact: Just send me a [message](https://yunger.dev/contact).
 
