@@ -18,7 +18,8 @@ Hello world! I'm Luís Galete, a self-proclaimed digital craftsman, music enthus
 - ‍💻 Working on: A SaaS product.
 - 🧠 Learning: TypeScript.
 - 🌎 Living in: Brazil.
-- ❄️ Favorite thing: A cold day.
+- ❄️ Favorite thing: Drinking coffee on a cold day.
+- 👾 Favorite Games: Xenoblade, Genshin, Minecraft and Okami.
 - 💬 Languages: Portuguese and English.
 - 📫 Contact: Just send me a <a href="https://yunger.dev/contact" target="_blank">message</a>.
 
