@@ -25,16 +25,38 @@
 </p>
 
 ## About
-Hello world! I'm Luís Galete, a self-proclaimed digital craftsman, music enthusiast, anime connoisseur and coffee addict. I taught myself how to code to turn my dumb ideas into reality, and created a [workshop](https://yunger.dev/) to share them with the world. Check out my [about](https://yunger.dev/about) page for more information.
+Hello world! I'm Luís Galete, a self-proclaimed digital craftsman, music enthusiast, anime connoisseur and coffee addict. I taught myself how to code to turn my dumb ideas into reality, and created a [workshop](https://yunger.dev/) to share them with the world. Check out the [about](https://yunger.dev/about) page to learn more about it.
 
-- ‍💻 Working on: A SaaS product.
-- 🧠 Learning: TypeScript.
-- 🌎 Living in: Brazil.
-- ❄️ Favorite thing: Drinking coffee on a cold day.
-- 👾 Favorite games: Xenoblade, Genshin, Minecraft and Okami.
-- 🍙 Favorite anime: Hyouka and Ookami to Koushinryou.
-- 💬 Languages: Portuguese and English.
-- 📫 Contact: Just send me a [message](https://yunger.dev/contact).
+- ‍💻 **Working on:** A SaaS product.
+- 🧠 **Learning:** TypeScript.
+- 🌎 **Living in:** Brazil.
+- ❄️ **Favorite thing:** Drinking coffee on a cold day.
+- 👾 **Favorite games:** Xenoblade, Genshin, Minecraft and Okami.
+- 🍙 **Favorite anime:** Hyouka and Ookami to Koushinryou.
+- 💬 **Languages:** Portuguese and English.
+- 📫 **Contact:** Just send me a [message](https://yunger.dev/contact).
+
+<details>
+  <summary>More info</summary>
+  
+  - 👨🏻‍💻 I’m currently developing a SaaS product, which is taking up most of my time. However, I’m also open to (and actively looking for) interesting job opportunities.
+  - 💡 I have lots of ideas for projects/tools that I want to build. My goal is to fill my workshop with them, and I'll make sure to share all of the cool stuff that I learn in the process.
+  - 🎷 I used to play the piano, but haven’t had much time to play lately. Yet I’m still very interested in music in general, and always enjoy watching Charles Cornell and Alex Moukala analysis videos.
+  - 👾 I absolutely love games that have a good amount of depth to it. Again, haven’t had much time to play anything lately, but hopefully I can make some room for Xenoblade 3.
+  
+    <details>
+      <summary>📚 There are many topics that I’m interested in and want to learn eventually, here are a few of them:</summary>
+
+      - **TypeScript.** It peaked my interest after struggling with silly runtime errors, and seeing how robust a strongly typed code is compared to a plain JavaScript code. (also, more intellisense is pretty cool too!)
+      - **Design patterns.** It peaked my interest for the same reason that TypeScript did: you only realize how much you need it after struggling with its absence.
+      - **Electron, React native and PWAs.** Why stop at the web? I want to take my knowledge and explore what you can do with it in other platforms as well!
+      - **Testing and CI / CD.** Got curious about it after I started using conventional commits with commitizen, and learned about how you can use it to automate version management and package release.
+      - **NPM packages.** Speaking of packages, I definitely want to build a few packages and contribute to the registry at some point.
+      - **Linux.** Gotta be honest here, the reason why I got curious in the first place was because of all the cool ricing that you can do in it. But later got interested in other aspects, such as the power of vim and all of the automations that you can do with some scripting.
+
+    </details>
+  
+</details>
 
 ---
 
