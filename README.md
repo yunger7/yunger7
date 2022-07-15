@@ -25,7 +25,7 @@
 </p>
 
 ## About
-Hello world! I'm Luís Galete, a self-proclaimed digital craftsman, music enthusiast, anime connoisseur and coffee addict. I taught myself how to code to turn my dumb ideas into reality, and created a [workshop](https://yunger.dev/) to share them with the world. Check out the [about](https://yunger.dev/about) page to learn more about it.
+Hello world! I'm Luís Galete, a self-proclaimed digital craftsman, music enthusiast, anime connoisseur and coffee addict. I taught myself how to code to turn my dumb ideas into reality, and created a [workshop](https://yunger.dev/) to share them with the world. Check out the [about](https://yunger.dev/about) page to learn more about it, or take a look at [my portfolio](https://luisgalete.com.br/) to see my previous works.
 
 - ‍💻 **Working on:** A SaaS product.
 - 🧠 **Learning:** TypeScript.
