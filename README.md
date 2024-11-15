@@ -45,9 +45,6 @@ Hello world! I'm Luís Galete, a self-proclaimed digital craftsman, music enthus
   <a href="https://steamcommunity.com/id/yunger/">
     <img src="https://img.shields.io/static/v1?label=&message=yunger&colorA=4c566a&colorB=5E81AC&logo=steam&logoColor=ECEFF4&style=flat-square" />
   </a>
-  <a href="https://www.reddit.com/user/yunger_">
-    <img src="https://img.shields.io/static/v1?label=&message=yunger_&colorA=4c566a&colorB=5E81AC&logo=reddit&logoColor=ECEFF4&style=flat-square" />
-  </a>
   <a href="https://myanimelist.net/profile/yunger">
     <img src="https://img.shields.io/static/v1?label=&message=yunger&colorA=4c566a&colorB=5E81AC&logo=myanimelist&logoColor=ECEFF4&style=flat-square" />
   </a>
