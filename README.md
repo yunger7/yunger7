@@ -7,22 +7,22 @@
 </p>
 
 <p align="center">
-  <a href="https://www.typescriptlang.org/">
+  <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=TypeScript&colorA=4c566a&colorB=5E81AC&logo=typescript&logoColor=ECEFF4&style=flat-square" />
   </a>
-  <a href="https://nextjs.org/">
+  <a href="https://nextjs.org/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=Next.js&colorA=4c566a&colorB=5E81AC&logo=next.js&logoColor=ECEFF4&style=flat-square" />
   </a>
-  <a href="https://nodejs.org/">
+  <a href="https://nodejs.org/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=Node.js&colorA=4c566a&colorB=5E81AC&logo=nodedotjs&logoColor=ECEFF4&style=flat-square" />
   </a>
-  <a href="https://www.rust-lang.org/">
+  <a href="https://www.rust-lang.org/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=Rust&colorA=4c566a&colorB=5E81AC&logo=rust&logoColor=ECEFF4&style=flat-square" />
   </a>
-  <a href="https://archlinux.org/">
+  <a href="https://archlinux.org/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=Arch&colorA=4c566a&colorB=5E81AC&logo=archlinux&logoColor=ECEFF4&style=flat-square" />
   </a>
-  <a href="https://www.vim.org/">
+  <a href="https://www.vim.org/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=Vim&colorA=4c566a&colorB=5E81AC&logo=vim&logoColor=ECEFF4&style=flat-square" />
   </a>
 </p>
@@ -42,10 +42,10 @@ Hello world! I'm Luís Galete, a self-proclaimed digital craftsman, music enthus
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=&message=yunger7&colorA=4c566a&colorB=5E81AC&logo=discord&logoColor=ECEFF4&style=flat-square" />
-  <a href="https://steamcommunity.com/id/yunger/">
+  <a href="https://steamcommunity.com/id/yunger/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=yunger&colorA=4c566a&colorB=5E81AC&logo=steam&logoColor=ECEFF4&style=flat-square" />
   </a>
-  <a href="https://myanimelist.net/profile/yunger">
+  <a href="https://myanimelist.net/profile/yunger" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=yunger&colorA=4c566a&colorB=5E81AC&logo=myanimelist&logoColor=ECEFF4&style=flat-square" />
   </a>
 </p>
